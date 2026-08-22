@@ -85,10 +85,3 @@ its own parts. Removing those columns gives an honest R² of 0.74.
 | [Loan Calculator](https://github.com/Hamzah5566/Simple-Interest-Loan-Calculator) | Java, Android | Simple interest and loan repayment calculator |
 | [Tablet Finance App](https://github.com/Hamzah5566/Android-Tablet-Finance-App) | Java, Android | Works out instalments and total cost on a purchase |
 | [Student Grade Calculator](https://github.com/Hamzah5566/Student-Grade-Calculator-App) | Java, Android | Averages student scores and assigns a grade |
-
----
-
-## Get in touch
-
-📍 Johannesburg, South Africa
-💼 Open to graduate and junior software engineering roles
