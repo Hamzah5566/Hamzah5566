@@ -1,10 +1,13 @@
 # Hi, I'm Hamzah 👋
 
-Software engineering student in Johannesburg, South Africa.
+Junior Software Developer in Johannesburg, South Africa, currently reading for a BSc Honours in
+IT (Data Science) at Eduvos after completing a BSc in IT (Software Engineering).
 
-I build full-stack applications end to end — the interface, the business logic, the database and
-the deployment. Most of what is here started as coursework and was then taken further than the
-brief asked for.
+Day to day I build full-stack applications in C# and .NET, design REST APIs in Python and
+FastAPI, and work on AI-powered features — LLM integration, MCP servers, and a WhatsApp chatbot
+that takes restaurant orders end to end. The repositories here are my own projects across
+mobile, web and data, each documented so you can see how it was built rather than just that it
+was.
 
 ---
 
@@ -14,6 +17,35 @@ brief asked for.
 
 | | |
 |---|---|
+| **Languages** | Java · PHP · Python · R · JavaScript · SQL |
+| **Mobile** | Android SDK, Material Components, View Binding, Navigation Component |
+| **Backend** | Firebase (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions), MySQL, PDO |
+| **Web** | HTML, CSS, vanilla JavaScript |
+| **Data** | pandas, NumPy, scikit-learn, statsmodels, Matplotlib, caret, ggplot2, NetworkX |
+| **Tools** | Git, Android Studio, Gradle, XAMPP, Composer, Jupyter, RStudio |
+
+### Used professionally
+
+Day-to-day work as a Junior Software Developer, which the repositories here do not cover.
+
+| | |
+|---|---|
+| **Languages and frameworks** | C#, .NET, ASP.NET, Blazor, Razor, MVC, TypeScript |
+| **APIs** | Python/FastAPI, REST, Swagger, third-party integration |
+| **Architecture** | Microservices, service layers, database schema design |
+| **AI** | LLM integration, MCP servers, Gemini API, WhatsApp Business API, prompt engineering |
+| **Databases** | PostgreSQL, MongoDB, Oracle |
+| **DevOps** | Docker, Kubernetes, CI/CD, Azure DevOps, AWS |
+
+### Also studied
+
+| | |
+|---|---|
+| **Languages** | Kotlin, Swift |
+| **Frameworks** | React, React Native, Bootstrap, Tailwind |
+| **Data** | Hadoop, Seaborn |
+
+---|---|
 | **Languages** | Java · PHP · Python · R · JavaScript · SQL |
 | **Mobile** | Android SDK, Material Components, View Binding, Navigation Component |
 | **Backend** | Firebase (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions), MySQL, PDO |
@@ -96,7 +128,7 @@ its own parts. Removing those columns gives an honest R² of 0.74.
 | [Social Network Analysis](https://github.com/Hamzah5566/Social-Network-Analysis) | Python, NetworkX | Analyses and visualises connections in a social graph |
 | [Grade Tracker](https://github.com/Hamzah5566/Python-grade-tracker-with-Unit-Testing) | Python, unittest | Calculates per-module grades, with a unit test suite |
 | [CRUD Inventory System](https://github.com/Hamzah5566/CRUD-operations-Programs) | Python, SQLite | Product inventory with full create, read, update and delete |
-| [Tax Calculator](https://github.com/Hamzah5566/Python-tax-calculator) | Python | Income tax calculator with a form-based interface |
+| [Tax Calculator](https://github.com/Hamzah5566/Python-tax-calculator) | Python | SARS income tax calculator with a form-based interface |
 | [Loan Calculator](https://github.com/Hamzah5566/Simple-Interest-Loan-Calculator) | Java, Android | Simple interest and loan repayment calculator |
 | [Tablet Finance App](https://github.com/Hamzah5566/Android-Tablet-Finance-App) | Java, Android | Works out instalments and total cost on a purchase |
 | [Student Grade Calculator](https://github.com/Hamzah5566/Student-Grade-Calculator-App) | Java, Android | Averages student scores and assigns a grade |
