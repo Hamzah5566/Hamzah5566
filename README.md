@@ -31,7 +31,7 @@ Day-to-day work as a Junior Software Developer, which the repositories here do n
 | | |
 |---|---|
 | **Languages** | C#, TypeScript, Kotlin, Swift |
-| **.NET** | .NET, ASP.NET, Blazor, Razor, MVC |
+| **.NET** | .NET, ASP.NET, Blazor, Razor, MVC, MAUI |
 | **Front end** | React, React Native, Bootstrap, Tailwind |
 | **APIs** | Python/FastAPI, REST, Swagger, third-party integration |
 | **Architecture** | Microservices, service layers, database schema design |
