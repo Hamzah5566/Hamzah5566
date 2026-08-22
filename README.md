@@ -42,7 +42,7 @@ One page serves all seven product categories, SQL is confined to repository clas
 the `public/` directory is reachable by the browser. My first website, originally deployed to
 shared hosting.
 
-### 📊 [Data Analytics in R](https://github.com/Hamzah5566/Data-Analytics-R)
+### 📊 [Machine Learning in R](https://github.com/Hamzah5566/Machine-Learning-in-R)
 `R` · `Machine Learning` · `caret`
 
 Three analyses on public UCI datasets: logistic regression classifying heart disease at 79.7%
