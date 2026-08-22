@@ -4,7 +4,7 @@ Software engineering student in Johannesburg, South Africa.
 
 I build full-stack applications end to end — the interface, the business logic, the database and
 the deployment. Most of what is here started as coursework and was then taken further than the
-brief asked for. I am currently looking for a graduate or junior software engineering role.
+brief asked for.
 
 ---
 
