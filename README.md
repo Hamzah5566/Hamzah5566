@@ -10,12 +10,27 @@ brief asked for.
 
 ## What I work with
 
-**Languages** Java · PHP · Python · R · JavaScript · SQL
-**Mobile** Android SDK, Material Components, View Binding, Navigation Component
-**Backend** Firebase (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions), MySQL, PDO
-**Web** HTML, CSS, vanilla JavaScript
-**Data** caret, ggplot2, NetworkX, pandas-style analysis in R
-**Tools** Git, Android Studio, Gradle, XAMPP, Composer
+### Used in the projects here
+
+| | |
+|---|---|
+| **Languages** | Java · PHP · Python · R · JavaScript · SQL |
+| **Mobile** | Android SDK, Material Components, View Binding, Navigation Component |
+| **Backend** | Firebase (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions), MySQL, PDO |
+| **Web** | HTML, CSS, vanilla JavaScript |
+| **Data** | caret, ggplot2, statsmodels, NetworkX |
+| **Tools** | Git, Android Studio, Gradle, XAMPP, Composer, Jupyter, RStudio |
+
+### Also worked with
+
+Studied through coursework and personal learning. No project in this repository list uses these
+yet, so I have kept them separate from the above.
+
+| | |
+|---|---|
+| **Languages** | C# |
+| **Frameworks** | Blazor, React, React Native |
+| **Containers and orchestration** | Docker, Kubernetes |
 
 ---
 
