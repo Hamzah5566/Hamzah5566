@@ -37,10 +37,9 @@ affected customer.
 A consumer-to-consumer marketplace where anyone can list second-hand goods, message a seller
 about a listing, and check out. Built without a framework.
 
-I rewrote this after submission. Seven near-identical category pages totalling 2,618 lines
-became a single file, the stylesheet that had been pasted into every page became one file, and
-the whole thing moved behind a `public/` web root with SQL confined to repository classes —
-roughly 5,500 fewer lines for the same behaviour.
+One page serves all seven product categories, SQL is confined to repository classes, and only
+the `public/` directory is reachable by the browser. My first website, originally deployed to
+shared hosting.
 
 ---
 
