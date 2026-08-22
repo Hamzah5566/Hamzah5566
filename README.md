@@ -10,10 +10,11 @@ brief asked for. I am currently looking for a graduate or junior software engine
 
 ## What I work with
 
-**Languages** Java · PHP · Python · JavaScript · SQL
+**Languages** Java · PHP · Python · R · JavaScript · SQL
 **Mobile** Android SDK, Material Components, View Binding, Navigation Component
 **Backend** Firebase (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions), MySQL, PDO
 **Web** HTML, CSS, vanilla JavaScript
+**Data** caret, ggplot2, NetworkX, pandas-style analysis in R
 **Tools** Git, Android Studio, Gradle, XAMPP, Composer
 
 ---
@@ -40,6 +41,18 @@ about a listing, and check out. Built without a framework.
 One page serves all seven product categories, SQL is confined to repository classes, and only
 the `public/` directory is reachable by the browser. My first website, originally deployed to
 shared hosting.
+
+### 📊 [Data Analytics in R](https://github.com/Hamzah5566/Data-Analytics-R)
+`R` · `Machine Learning` · `caret`
+
+Three analyses on public UCI datasets: logistic regression classifying heart disease at 79.7%
+accuracy and 85.7% recall, a comparison of multiple linear regression against decision tree
+regression on US crime data, and k-means clustering of wine chemistry with PCA for
+visualisation.
+
+The crime model initially scored a test R² of exactly 1.0. The dataset records each violent
+offence separately and violent crime is their sum, so the model was re-deriving the target from
+its own parts. Removing those columns gives an honest R² of 0.74.
 
 ---
 
