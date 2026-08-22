@@ -30,39 +30,16 @@ Day-to-day work as a Junior Software Developer, which the repositories here do n
 
 | | |
 |---|---|
-| **Languages and frameworks** | C#, .NET, ASP.NET, Blazor, Razor, MVC, TypeScript |
+| **Languages** | C#, TypeScript, Kotlin, Swift |
+| **.NET** | .NET, ASP.NET, Blazor, Razor, MVC |
+| **Front end** | React, React Native, Bootstrap, Tailwind |
 | **APIs** | Python/FastAPI, REST, Swagger, third-party integration |
 | **Architecture** | Microservices, service layers, database schema design |
 | **AI** | LLM integration, MCP servers, Gemini API, WhatsApp Business API, prompt engineering |
-| **Databases** | PostgreSQL, MongoDB, Oracle |
+| **Databases** | PostgreSQL, MongoDB, Oracle, MySQL Workbench |
+| **Big data** | Hadoop |
+| **Visualisation** | Seaborn |
 | **DevOps** | Docker, Kubernetes, CI/CD, Azure DevOps, AWS |
-
-### Also studied
-
-| | |
-|---|---|
-| **Languages** | Kotlin, Swift |
-| **Frameworks** | React, React Native, Bootstrap, Tailwind |
-| **Data** | Hadoop, Seaborn |
-
----|---|
-| **Languages** | Java · PHP · Python · R · JavaScript · SQL |
-| **Mobile** | Android SDK, Material Components, View Binding, Navigation Component |
-| **Backend** | Firebase (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions), MySQL, PDO |
-| **Web** | HTML, CSS, vanilla JavaScript |
-| **Data** | caret, ggplot2, statsmodels, NetworkX |
-| **Tools** | Git, Android Studio, Gradle, XAMPP, Composer, Jupyter, RStudio |
-
-### Also worked with
-
-Studied through coursework and personal learning. No project in this repository list uses these
-yet, so I have kept them separate from the above.
-
-| | |
-|---|---|
-| **Languages** | C# |
-| **Frameworks** | Blazor, React, React Native |
-| **Containers and orchestration** | Docker, Kubernetes |
 
 ---
 
