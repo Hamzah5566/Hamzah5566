@@ -1,6 +1,6 @@
 # Hi, I'm Hamzah 👋
 
-Junior Software Developer in Johannesburg, South Africa, currently reading for a BSc Honours in
+Junior Software Developer in Johannesburg, South Africa, currently studying towards a BSc Honours in
 IT (Data Science) at Eduvos after completing a BSc in IT (Software Engineering).
 
 Day to day I build full-stack applications in C# and .NET, design REST APIs in Python and
