@@ -54,6 +54,17 @@ The crime model initially scored a test R² of exactly 1.0. The dataset records 
 offence separately and violent crime is their sum, so the model was re-deriving the target from
 its own parts. Removing those columns gives an honest R² of 0.74.
 
+### 📈 [Tech Role Demand Forecasting](https://github.com/Hamzah5566/Tech-Role-Demand-Forecasting)
+`Python` · `Time Series` · `statsmodels`
+
+Forecasting five years of weekly search interest for Data Analyst, Software Engineer and
+Cybersecurity Specialist roles: decomposition, stationarity testing, ARIMA order selection from
+ACF and PACF, and residual diagnostics.
+
+The non-seasonal models forecast a flat line and the Ljung-Box test flagged leftover structure
+in the residuals. Adding a 52-week seasonal component roughly halves the error — 9.24% MAPE down
+to 4.67% for Data Analyst.
+
 ---
 
 ## Other work
